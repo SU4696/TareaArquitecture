@@ -1,1 +1,35 @@
+5 Habilidades de un desarrollador de apps
 
+1. Creatividad
+Es un elemento esencial en el trabajo de desarrollo de aplicaciones. Si bien la parte de desarrollo es rigurosa y los procesos deben ejecutarse milímetro a milímetro, la creatividad es fundamental para la innovación. Es un elemento clave para crear innovación en todos los campos.
+
+2. Paciencia
+No importa cuán bueno sea un plan, la mayor parte no sale según lo planeado, por lo que es necesario comprender el proceso. Un buen programador debe tener un talento muy desarrollado para la persistencia.
+
+
+3. Organización
+ La planificación es fundamental en cualquier proyecto de desarrollo. Todo se hace por etapas, por lo que es necesario saber cómo hacerlo y desglosar el problema para resolverlo. También se requiere una cantidad significativa de lógica para lograr esto.
+
+4. Inteligencia
+El desarrollo de software es difícil. Y aunque la mayoría de los trabajos requieren inteligencia para lograr resultados óptimos, los desarrolladores deben ser particularmente inteligentes y saber cómo concentrarse en procesos complejos y pesados.
+
+5. Flexibilidad
+De hecho, la flexibilidad es una cualidad que debe acompañar a cualquier profesional que trabaje en el campo de las tecnologías de la información. Sin embargo, los lenguajes de programación están cambiando y, en ocasiones, incluso un mismo proyecto requiere conocimientos multidisciplinarios. Además, el entorno es extremadamente cambiante y los buenos desarrolladores exigen constantemente aprender cosas nuevas, no solo de programación, sino en todas las áreas donde se deben aplicar sus habilidades.
+
+
+3 comandos para Mac
+Teclado:
+Option + Shift + Command + V: Pegar con el mismo estilo: aplicar el estilo del contenido circundante al elemento pegado en ese contenido.
+Option + Command + I: mostrar u ocultar la ventana del inspector.
+Shift + Command + P: Configurar página: mostrar una ventana para seleccionar la configuración del documento.
+
+Terminal:
+1. cd (cambiar directorio)
+cd es un comando para mover una carpeta.
+
+2. pwd (directorio de trabajo de impresión)
+pwd es un comando que muestra la ruta actual.
+
+3. tocar, rm (eliminar)
+touch es un comando que crea un archivo en la ubicación correspondiente en el terminal actual.
+  El comando rm es un comando para eliminar un archivo.
